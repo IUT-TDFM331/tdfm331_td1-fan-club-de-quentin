@@ -45,7 +45,5 @@ codes couvert/non couverts par les tests.
 - Attention, je dois pouvoir identifier clairement le travail de chaque membre du groupe. Ne laissez pas une seule personne macher tout le boulot. 
 
 ## Contributors 
-```java
-//TODO
-```
+- Personnes ayant rendus le projet : Henriest Benjamin, Eldada Lyne, Marchal Quentin
 
